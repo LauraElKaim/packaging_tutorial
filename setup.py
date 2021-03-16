@@ -5,9 +5,9 @@ setup(
   name='biketrauma',
   version=current_version,
   description='Visualization of a bicycle accident db',
-  url='http://github.com/xxxxxxxxxxx.git',
-  author='xxxxxxxxxxx',
-  author_email='xxxxxxxxxx@xxxxxxxxxxxxx.xxx',
+  url='http://github.com/LauraElKaim.git',
+  author='LauraElKaim',
+  author_email='laura.el-kaim@etu.umontpellier.fr',
   license='MIT',
   packages=['biketrauma','biketrauma.io', 'biketrauma.preprocess', 'biketrauma.vis'],
   zip_safe=False
